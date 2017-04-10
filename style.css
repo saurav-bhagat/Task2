@@ -1,1 +1,34 @@
-ECHO is on.
+body{
+	color: rgb(255,255,255);
+}
+.whit{
+	color: white;
+}
+.navbar{
+	background-color: gray;
+}
+.nav-pills li{
+	background-color: gray;
+	margin: 10px;	
+}
+.red{
+	background-color: rgb(255,0,0);
+}
+.active{
+	background-color: red;
+}
+body{
+	background-color: black;
+}
+.btn{
+	float: right;
+	border-radius: 0;
+}
+.caret{
+	float: right;
+	color: black;
+
+}
+.side{
+	border: 5px solid gray;
+}
